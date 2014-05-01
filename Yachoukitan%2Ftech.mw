@@ -1,0 +1,95 @@
+<poem>
+;mode640
+;gameid Ballad of an Evening Butterfly 1.5e
+
+*define
+
+nsa
+
+;defaultspeed 60,40,20
+
+automode
+
+effect 12,10,1500
+effect 11,10,3500
+effect 13,10,5000
+
+resetmenu
+
+versionstr"^Ballad of an Evening Butterfly Ver 1.5e","^(c) ZIGZAG, 2006"
+
+caption"Ballad of an Evening Butterfly"
+
+h_mapfont 0, "fonts/afontwserifs.ttf"
+h_mapfont 1, "fonts/tohellandback.ttf"
+h_mapfont 2, "fonts/uneasy.ttf"
+h_mapfont 3, "fonts/afontwserifsdis.ttf"
+h_mapfont 4, "fonts/aoyagikouzanfontt.ttf"
+h_mapfont 5, "fonts/selfish.ttf"
+h_mapfont 6, "fonts/gotheroin.ttf"
+h_mapfont 7, "fonts/daniel.ttf"
+h_rendering none, integer
+
+h_defwindow "main6", 80,14,500,449,19,0,6,#666666,60,10,520,459
+h_defwindow "main6s", 80,14,500,449,19,0,6,0,0,1,#666666,60,10,520,459
+h_defwindow "mainf", 80,14,500,449,19,0,6,#ffffff,60,10,520,459
+h_defwindow "mainfs", 80,14,500,449,19,0,6,0,0,1,#ffffff,60,10,520,459
+h_defwindow "center6", 0,234,550,449,19,0,6,#666666,60,10,520,459
+h_defwindow "center62", 0,214,600,449,19,0,6,#666666,60,10,520,459
+h_defwindow "center63", 0,203,600,449,19,0,6,#666666,60,10,520,459
+h_defwindow "centerf", 0,234,500,449,19,0,6,#ffffff,60,10,520,459
+h_defwindow "centerf2", 0,214,600,449,19,0,6,#ffffff,60,10,520,459
+h_defwindow "centerf2s", 0,214,600,449,19,0,6,0,0,1,#ffffff,60,10,520,459
+h_defwindow "centerfs", 0,234,500,449,19,0,6,0,0,1,#ffffff,60,10,520,459
+h_defwindow "zigzag", 0,234,500,449,19,0,6,0,0,1,#666666,60,10,520,459
+h_defwindow "red", 80,23,500,449,19,0,6,#666666,60,10,520,459
+
+
+menusetwindow 17,17,0,10,0,1,#333333
+rmenu "^- L o o k -",windowerase,"^- S a v e -",save,"^- L o a d -",load,"^- B a c k -",lookback
+savename"Memorize","Recollect","Retain "
+menuselectcolor #808080,#ffffff,#808080
+menuselectvoice"m\click-2.wav","m\click-2.wav","m\botan-1.wav","m\click-2.wav","m\click-2.wav","m\click-2.wav","m\click-2.wav"
+lookbackcolor #ffffff
+lookbackbutton "e\kaiso1.jpg","e\kaiso1.jpg","e\kaiso2.jpg","e\kaiso2.jpg"
+lookbackvoice "m\page1.wav"
+game
+*start
+h_usewindow "zigzag"
+bg"e\zigzag.jpg",12
+dwave 0 "m\zigzag.wav"
+textspeed 20
+h_centreline ^ZIGZAG PRESENTS
+^ZIGZAG PRESENTS\
+mp3stop
+!d5000
+bg"e\title.jpg",12
+h_usewindow "mainf"
+textspeed 20
+
+wait 5000
+
+*menu
+
+h_usewindow "mainfs"
+textspeed 20
+mp3stop
+bgm"m\sunano.mp3"
+bg "e\menu.jpg",12
+btndef "e\menu2.jpg"
+btn 1,466,150,102,32,466,150
+btn 2,466,219,102,37,466,219
+btn 3,466,289,103,46,466,289
+
+*bt
+
+btnwait2 %0
+if %0<=0 goto *bt
+
+btndef ""
+
+if %0=1 goto *sis01
+if %0=2 goto *sis02
+if %0=3 goto *sis03
+
+</poem>

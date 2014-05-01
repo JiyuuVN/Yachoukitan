@@ -1,0 +1,174 @@
+<poem>
+*end2
+br
+^I finish last night's tale, and Yoru nods expressionlessly.@
+br
+^"———I see. That birthmark is proof of the (contract)."@
+^"...Contract?"@
+^"The contract for the ChouTsuki; so to speak, it is the same thing as marriage.@ Proof of mutual love and children begotten together."@
+^"Chou and I... children? No, but—"@
+^"I understand. Could you show me the birthmark?"@
+^"...Yes, I don't mind."@
+br
+^Draining the rest of his coffee, Yoru rises.@
+^Little by little, he closes the gap between us.@
+^Abruptly stretching out his hand, he pulls on my shirt collar.@
+bgmfadeout 2500
+bgmstop
+br
+^————His lips press against mine.\
+br
+^From between his parted teeth pours a lukewarm fluid.@
+bgm"m\entoro.mp3"
+^The bitter taste of coffee and———a pill.@
+^Before I can react, I hear the echoing sound of the liquid being swallowed.@
+br
+^"...What did... you make me dri—"@
+br
+^As I ask in a hoarse voice, my field of vision wavers.@
+^In my rapidly receeding consciousness, I hear an indifferent voice inform me.@
+br
+^"Let me tell you what the solution is.@ There is only one way to erase that birthmark.@ That is by killing the ChouTsuki who holds the contract."@
+br
+^He catches my body as my knees give way.@
+br
+^"Good night, Sera-san. Soon you will forget everything."\
+erasetextwindow 1
+bgmfadeout 2000
+bgmstop
+bg #000000,12
+h_usewindow "center6"
+textspeed 20
+h_centreline ^Before I can say anything, my thoughts are swallowed by darkness.
+^Before I can say anything, my thoughts are swallowed by darkness.\
+bgmfadeout 4000
+bgmstop
+bg #000000,11
+h_usewindow "main6"
+textspeed 20
+br
+bg"e\kumo.jpg",13
+bgm"m\mitibiki.mp3"
+#ffffff
+^One day, I wake up with no memory.@
+^The past of the person called (me) has been broken away, like film on the cutting room floor.@
+br
+^————Sera Kaoru. That is my name.@
+br
+^But that is the only thing I remember.@
+^Why am I in (this place), I wonder?@
+erasetextwindow 0
+bg"e\kyakuma.jpg",12
+^Raising my eyes, I see a wide stucco ceiling.@
+^This room given to me is cozily furnished.@?
+^It's been two months since I started living here.@
+^Before I know it, the rain turns to sleet, and then to opaque snow.@
+^I can't tell if the winter sky is night or day.@
+^Little by little, it becomes grey, and before I know it, it's night.@
+^Grey and black. Only those two colors exist.\
+erasetextwindow 1
+bg"e\eda.jpg",12
+br
+^————I realize I am searching for white.@
+br
+^I stop by the window again and look down at the scenery below.@
+^Drawn on the bare branches is a straight shadow.@
+^Bit by bit, the cold tree shakes.@
+^The clouds in the gray sky hang down to touch the tips of the branches.@
+^Straining my ears, I hear the sound of footsteps on snow.@
+erasetextwindow 0
+bg"e\haka2.jpg",12
+^If I drop my gaze, I see the nameless graves of the deceased.@
+^Unconsciously, I search for a new gravestone.@
+^————The one as white as the snow.@
+^Whenever I try to listen, I can almost hear the sound of dirt being heaped on the buried coffin.@
+^I have a feeling that something important is buried.@
+^I suddenly see the form of a black-clad child.@
+br
+^————Mutsuki Yoru. That is his name.\
+br
+^A pale, pretty boy.@
+^He looks unnaturally calm—not like a child at all.@
+^For two months, I've heard no voice but his.@
+^Exchanging greetings with the commuting housekeeper... no more than that.@
+br
+^————While he is here, I'm not lonely.@
+br
+^But it feels as though there are cracks in my heart.@
+^Deep within my body, at the very center, it is cold.@
+^At length, white crystals begin to fall from the achromatic sky.@
+^Pouring into the peaceful graveyard, an afterimage of pure white snow.@
+^The snowflakes fall on the windowpane, and I gaze at them as they melt.@
+^The black-clad child lingers below the metallic sky.@
+br
+^————I wonder if he is cold.\
+erasetextwindow 1
+br
+bg"e\kumo.jpg",11
+^Suddenly, the (child) looks up at the sky.@
+^As he raises his eyes, a single snowflake kisses his cheek.@
+^Rising above the grove of trees, a bare sky.@
+^Snow falls from the dark ashen clouds, dancing as it slowly flutters down.@
+^I exhale, and my breath makes white wings before my face.@
+erasetextwindow 0
+^————Just like a butterfly.@
+bg"e\haka2.jpg",12
+^I look down at the gravestones, none of which bear any names.@
+^The lines for birth and death dates are nowhere to be found either—they're just markers.@
+^The snow, falling from the sky, begins to pile up, white upon white.@
+^The air is so cold it's hard to breathe.@
+^This grave was created————two months ago.@
+^Eventually, everything might have grown boring.@
+^@
+^If I had thought a little about myself that time, I would have decided to kill Chou and make her my own.\
+br
+^That's why we're together now.@
+br
+^"You're probably bored down there, right, Chou?"@
+br
+^The instant I speak, my monologue freezes and crystalizes.@
+bg"e\kumo.jpg",12
+^The words disappear somewhere, carried on the wind.@
+^The sky above looks like it's in the middle of a long sleep.@
+^————The dead cannot answer.@
+^————However.@
+^The Sera of lately stands by the window, gazing at the many things outside.\
+bg"e\haka2.jpg",12
+erasetextwindow 1
+h_usewindow "center6"
+textspeed 20
+h_centreline ^Surely, below that gravestone, she sees him.
+^Surely, below that gravestone, she sees him.\
+h_usewindow "mainfs"
+textspeed 20
+bg #000000,11
+bgmfadeout 6000
+bgmstop
+bg"e\end.jpg",11
+!d100000
+goto *menu
+reset
+
+*sis02
+systemcall load
+goto *menu
+reset
+
+*sis03
+h_usewindow "center63"
+textspeed 20
+rmode 0
+wave"m\click-2.wav"
+h_centreline ^Quit "Ballad of an Evening Butterfly"?
+^Quit "Ballad of an Evening Butterfly"?
+h_locate 309,28
+select "^Yes",*s1,"^ No",*s2
+
+
+*s1
+end
+
+*s2
+goto *menu
+reset
+</poem>

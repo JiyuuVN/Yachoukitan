@@ -1,0 +1,1474 @@
+<poem>
+*end1
+br
+^I have a feeling it may be better not to talk about it.@
+^This is based on intuition.@
+^I think I should keep this mark a secret.@
+^Not only from him, but I should keep it from everyone.@
+br
+^"Are you hiding something?"@
+br
+^He asks, and I freeze as I pull out a chair.@
+br
+^"I jest."@
+br
+^He gives a smile as if to laugh at me.@
+^He drinks coffee like there is nothing out of the ordinary.@
+^...It may be best not to think too much about it.@
+^I try to think of something else————And remember.\
+br
+#cccccc
+^"It would be best if you don't go to the basement tomorrow night."@
+^"————Why?"@
+^"We will be having a guest———Please don't ask who."@
+br
+#ffffff
+^I once again get a bad feeling.@
+^Who could the guest be?@
+br
+br
+^————Why?\
+
+erasetextwindow 1
+bgmfadeout 2000
+bgmstop
+
+bgm"m\hitotuno.mp3"
+bg"e\kumo.jpg",12
+h_usewindow "main6"
+textspeed 20
+br
+#ffffff
+^At two in the afternoon, I head to the basement where Chou is waiting.@
+^It is rather gloomy to be afternoon, with the lead-colored sky.@
+^It feels like it may rain.@
+^I can hear the rustling in the distant grove of trees.@
+^I take the usual route to the basement.@
+erasetextwindow 0
+bg"e\tobira-t.jpg",12
+wave"m\tobira-2.wav"
+bg #000000,12
+^Slowly, the door creaks open.@
+^The walls are covered in pure white butterflies. They are dimly white in the darkness.@
+^It seems like what I could not see before is revealed to me.@
+^I do not feel revulsion or fear.@
+^Rather, it is the feeling of a familiar embrace.@
+^Opening the last door, I step into the basement.\
+br
+erasetextwindow 0
+bg"e\tatie2.jpg",12
+^Like yesterday, Chou jumps to greet me.@
+^Remembering last night, I feel embarrassed.@
+^But either way, I am glad to see her again today.@
+^My concern from this morning vanishes.\
+br
+^I continue reading "Picturebook Without Pictures" from where I left off yesterday.@
+^I sit down on the couch and Chou lies down beside me.@
+^With her head on my lap, she listens intently.@
+br
+#cccccc
+^The coffin, with its covering of straw, fell off, and lay on the road, while horses, hearse, and driver dashed wildly off.@
+br
+#ffffff
+^The moon's tale fills the room with its atmosphere.@
+^Tonight I read from the Tenth Evening to the Eighteenth Evening.@
+^I glance at my watch and stop turning the pages.@
+^It is 7:12 PM———about time for dinner.@
+br
+^"I'll come again tomorrow,"@ I say, stroking her head.\
+br
+^The sensation of the soft white hair.@
+^Her childlike warmth.@
+^She nods in slight disappointment.@
+^Her expression makes my chest tighten.@
+^I have a sudden urge to hug her.@
+br
+^"...Oh yes, Chou."@
+br
+^Remembering, I wonder if I should tell her about the mark.@
+^But in the end I decide to keep it to myself.@
+^I want to do my best not to worry her.@
+^I need to find a different topic, since I have her attention.@
+^So I end up asking her what I was curious about.@
+br
+^"I heard that you have a guest tonight."\
+br
+h_usewindow "main6"
+textspeed 20
+bgmfadeout 2000
+bgmstop
+bg #000000,12
+br
+^It is at that instant.@
+bgm"m\entoro.mp3"
+^All the expression from her face falls before me.@
+^It is true that her expressions are limited normally.@
+^But this is by no means a normal situation.@
+^The warmth has also been drained from her being.@
+^Her eyes, looking at me, are glassy and unmoving.@
+br
+^#ccccccAfter the performance last night, the poor little man strolled out of the town to the lonely churchyard. The wreath of flowers on Columbine's grave had already faded.@
+br
+#ffffff
+bg"e\tika.jpg",12
+^"————Chou?"@
+br
+^Chou starts, hearing me call her.@
+^Abruptly, she grabs my shoulders and pushes me onto the couch.@
+^Unbalanced, my head hits the corner of the timber frame.\
+br
+^The pain of the impact.@
+^The sensation of my brain going numb.@
+br
+br
+^Then I feel her warm breath on my lips, and the touch of her tongue.@
+^Warm saliva trickles at the corner of my mouth.@
+br
+br
+^"...Chou... what..."@
+br
+^I try to ask in a broken voice, but my field of vision grows hazy at the ceiling.@
+^Because of the bump, my limbs seem to have gone limp.@
+^I can hear my pulse thundering in my ears.@
+^My breath is ragged and heavy.@
+^————So terribly dizzy.\
+br
+^Without even feigning embarrassment, she traces a small finger on my skin.@
+br
+^Sighs and pulses.@
+^Lukewarm body fluids.@
+br
+br
+^Lips and tongue upon mine while I lay prone.@
+br
+br
+^Dull, gloomy, heated darkness.@
+^Pleasant suffocation.@
+br
+br
+^Cohesive thought ceasing.@
+^Pulse stopping.\
+br
+br
+^————Breath.@
+br
+^————Pulse.@
+br
+^————Heat.@
+br
+br
+br
+^————Pleasure.@
+br
+br
+br
+^Then I knew no more.@
+
+erasetextwindow 1
+bgmfadeout 5000
+bgmstop
+h_usewindow "mainfs"
+textspeed 20
+bg"e\title.jpg",12
+!d2000
+bg #000000,12
+
+h_usewindow "mainfs"
+textspeed 20
+bgm"m\tyo.mp3"
+bg"e\tyou.jpg",12
+h_usewindow "center62"
+h_centreline ^I can hear the sound of rainfall.@
+^I can hear the sound of rainfall.@
+h_centreline ^Or the sound of humming wings.\
+ ^Or the sound of humming wings.\
+
+bgmfadeout 2000
+bgmstop
+
+erasetextwindow 1
+h_usewindow "main6"
+textspeed 20
+bg"e\kyakuma.jpg",12
+bgm"m\ame.mp3"
+#ffffff
+br
+^I wake up in the guestroom.@
+^I have a slight fever. I feel numb.@
+^It feels like a strange force is holding me down.@
+^I close my heavy eyelids and take a breath.@
+br
+^"————tch."@
+br
+^My headache and dizziness refuse to leave.@
+^Images go through my mind. My thoughts are in disorder.@
+^Gradually the sound of rain penetrates my body.@
+^There is no other sound in the deathly silent room.@
+br
+^"...?"@
+br
+^In the midst of the rain, I hear a motorcycle engine.@
+^I get up. I go to the window and open the curtains. \
+br
+bg #000000,12
+^Behind the glass window is a wall of black.@
+^No matter how I strain my eyes, I cannot find a single light.@
+bgmfadeout 3000
+bgmstop
+br
+^————I think I see the figure of a person moving in the dark.@
+bgm"m\entoro.mp3"
+br
+^I begin to feel irrationally uneasy.@
+^Something is forcing my heart to beat faster.@
+erasetextwindow 0
+bg"e\nikai.jpg",12
+^I go out the door and run down the long corridor.@
+^A countless number of black butterflies enter my vision as they fly indoors.@
+^Tens, hundreds, thousands.@
+^In the corridor, on the ceiling, the jet black wings dance.@
+br
+^Like scattering flowers.@
+^Like excited shadows.@
+br
+^————This is the domain of the night. \
+br
+h_usewindow "main6"
+textspeed 20
+bg"e\genkan.jpg",12
+wave"m\tobira-2.wav"
+#ffffff
+br
+^I go through the entry hall, leaving the mass of black butterflies behind.@
+bg #000000,12
+^Wet, black stone paving. Rippling water.@
+^I quicken my pace towards the small storage room.@
+^The wet clothes sticking to my skin are unpleasant.@
+^Drops of water fall from the tips of my hair.@
+bg"e\monooki.jpg",12
+^I do not have the slightest idea why I am so anxious.@
+^But I have a feeling that something will happen.@
+br
+^————Yoru had said "Guest."@
+^————He hadn't said "Sacrifice."@
+br
+wave"m\tobira-2.wav"
+bg"e\rasen.jpg",12
+^The door opens with a jarring squeak.@
+^Full of uncertainty, I head down the helical staircase.@
+^Counterclockwise, down, down, down.@
+^The first door to the basement is not locked. \
+bg #000000,12
+br
+^The moment I open the door, a swarm of butterflies flies by.@
+#ffffff
+^~c7~White. White. White. White. White. White. White.~d~@
+#ffffff
+^The overlapping thunder of wings sounds like rainfall.@
+^Squinting, I can see that the interior door is open.@
+^I stop moving at an unfamiliar presence.@
+^————The sound of talking.@
+bg"e\tika.jpg",12
+^I pull open the door and peer in.@
+^Standing before the bed is an unknown man.@
+^Slowly, he takes off his clothes.@
+^Chou is lying on the bed opposite him.@
+^Not scared. Not afraid. No opposition.@
+^Not doing anything. Just observing the man's actions.@
+^At length, the man is nude and hovering over her small body.@
+#ffffff
+^White hair. White body. White feet. White arms. White face——#8B0000~c3~Red eyes.~d~@
+#ffffff
+^————I think our eyes meet. \
+br
+^I might have been about to cry out.@
+^Or I might have been about to yell.@
+^But the moment I open my mouth, I feel an incredible impact to the back of my head.@
+br
+br
+^Is what I see before me swallowing my thoughts in pain?@
+^Is what I see before me stealing my sight to darkness?@
+br
+br
+^With that, I lose consciousness.\
+erasetextwindow 1
+bgmfadeout 3000
+bgmstop
+h_usewindow "mainfs"
+textspeed 20
+bg #000000,12
+bg"e\class1.jpg",12
+bgm"m\class.mp3"
+bg"e\class1-a.jpg",12
+bg"e\class1-b.jpg",12
+bg"e\class1-a.jpg",12
+bg"e\class1.jpg",12
+bg #000000,12
+bgmfadeout 3000
+bgmstop
+
+erasetextwindow 1
+h_usewindow "main6"
+textspeed 20
+bgm"m\rondon.mp3"
+bg"e\akari1.jpg",11
+#ffffff
+br
+^My thoughts are in disorder during those first few moments of waking.@
+^Time is warped, and places overlap.@
+^A great number of emotions collapse together like building blocks.@
+^Everything had happened in an instant.@
+^If I open my eyes, all I will see is stillness.@
+^If I look up, I will see the stucco ceiling.@
+^In the gloomy light, spines of books line the wall.@
+^————It is the study.@
+^I do not know why I am in this room.@
+^I feel a dull pain on the back of my head. My body is heavy and sluggish.@
+^If I don't wake up, I won't breathe. When I do, my lungs feel numb.\
+br
+^"————I-"@
+^"Up until now, you were unconscious from having been struck in the carotid artery."@
+br
+^In the very dim light, I hear a familiar voice.\
+br
+bg"e\tatie5.jpg",12
+^He is turning the pages of a book intermittently.@
+^I hear the sound of flipping paper.@
+^Yoru is sitting at the interview couch.@
+^His eyes run along the print in the book and he does not look up.@
+^At his words————I remember.@
+br
+^"————What was that?"@
+^"It is as you saw."@
+br
+^Glaring, I ask in a stiff voice.@
+^Still, his fingers continue turning the pages.@
+^The rain seems to have stopped.@
+^In the distance, a nocturnal bird cries.@
+br
+^"Sexual intercourse between living gods. A ceremony between two of the same species.@ Raising strength by means of sexual relations. It is a compulsory service."\
+br
+^"...You too?"@
+^"No. That is not my place."@
+br
+^I take on Yoru's bitter smile.@
+^Perhaps I am just trying to make myself feel better.@
+^But thinking so makes my expression vanish.@
+^And then he continues on in an indifferent voice.@
+br
+^"The ChouTsuki are asexual, so sexual consummation will be by anal intercourse. They do not have actual genitalia; just an orifice. There is no chance of undesired conception."@
+br
+^In that moment, I see white.@
+^I am assaulted by an explosion of terrible emotions.@
+^Hate. Anger. Disgust. Intent to kill.@
+^Blood boils in my skull. \
+br
+^"..."@
+br
+^I jump from the couch to hit him.@
+^But my raised fist stops before Yoru's face.@
+bgmfadeout 3000
+bgmstop
+
+erasetextwindow 0
+bgm"m\entoro.mp3"
+bg"e\jyu.jpg",12
+^————He is pointing a gun at my forehead.@
+^It is in his right hand, which had been hidden by his book.@
+^Seeing it jogs my memory. It had belonged to the murdered man.@
+br
+^"..."@
+br
+^The clock from below chimes for the late night.@
+^I see myself reflected in expressionless eyes.@
+br
+^"We will begin your test now."@
+^"————What?"\
+br
+^"The man you saw is still in the basement.@ Now, can you send the (guest) back here without incident?"@
+br
+^My nails dig into my palm from gripping so tightly in a fist.@
+^I suppress my urge to kill and glare at the youth before me.@
+^————It feels like betrayal.@
+^I remember the image of him gently stroking Chou's hair.@
+^Unforgivable, whatever reason there may be.@
+br
+^"I will say it again. This is a test.@ If you say or try anything, (they) will tear you apart."@
+br
+^I raise my hand, thinking that I should hit him.@
+^But in the next instant, I lose my thoughts and am unable to move. \
+bg"e\akari1.jpg",12
+br
+^————Lightly, nimbly.@
+br
+^Several butterflies hover above my head like black petals.@
+^————One@————Two@————Three.@
+^Killers dubbed with numbers as names.@
+br
+br
+^"Now then, please go on."@
+br
+br
+^He says it like this is the beginning of some game.@
+^Blood trickles from my lips where I've bitten them.@
+^I restrain my anger and lower my fist.@
+^I turn around roughly and storm out of the study.@
+^————I have no intention of going back to the guest room.\
+
+h_usewindow "mainfs"
+textspeed 20
+bg"e\genkan.jpg",12
+h_usewindow "main6s"
+textspeed 30
+br
+#ffffff
+^I open the front door and head out.@
+erasetextwindow 0
+bg"e\yoru-y.jpg",12
+^There does not seem to be any break in the rain.@
+^The wet darkness reflects from my eyes, and clear drops of rain fall.@
+^Occasionally, a night bird breaks the silence.@
+^As usual, there isn't a single light from the house behind me.@
+bg"e\monooki.jpg",12
+wave"m\tobira-2.wav"
+^With a creak, I open the door to the storage room.@
+^I turn on the ceiling light and search for something to end this.@
+^————There.@
+^There is an axe standing next to some bundled firewood.@
+^I grab the handle and lift it.@
+^I gaze at the reflecting edge glinting in the light.@
+^It is light from rust; an awkward mass of iron.@
+^Gripping the handle tightly, I strike at the nearby firewood.@
+wave"m\hakai.wav"
+^After a loud and disconcerting noise, a large chunk of wood flies free.@
+^————Good enough to kill a person with. \
+br
+bg"e\rasen.jpg",12
+^I go through the door, still open from before.@
+^Then down the spiral staircase.@
+^Light and shadows in succession.@
+^Perpendiculars and parallels.@
+^Everything is warped, little by little.@
+^Even the shadows of my own movements are convoluted.@
+^The unnatural sound of reverberating footsteps fills every space.@
+br
+^————Yoru had said that this was a "test."@
+br
+^If I can bring back the (guest) with no problems, everything might go back to normal.@ I could possibly return my relationship with him to how it's been in the past three days.@
+br
+^————But right now, Chou is in the arms of a man. \
+br
+^I squint. My head aches.@
+#8B0000
+^~c2~Unforgivable Unforgivable Unforgivable~d~@
+#ffffff
+^Anything and everything seems grotesquely wrong.@
+^Perhaps the most twisted one is me.@
+#8B0000
+^~c2~Kill Kill Kill Kill Kill Kill Kill Kill Kill~d~@
+#ffffff
+^————For Chou? No.@
+^It is not as simple a self-deception as that.@
+^To call it love is presumptuous. It is the desire to monopolize.@
+^My whole being rejects the existence of that man.@
+#8B0000
+^~c2~Kill Kill Kill Kill Kill Kill Kill Kill Kill~d~@
+#ffffff
+^I cannot stand for anyone to touch Chou for a minute, a second.@
+^No matter how many tens, hundreds of times I swing down with the axe, it is not enough.@
+^But it will only take one swing to kill.\
+br
+^The three butterflies continue dancing above my head.@
+^They will probably kill me before I can kill him.@
+br
+^But I can't just bring him back like this.@
+^To put it simply————he's better off dead.@
+br
+br
+bgmfadeout 3000
+bgmstop
+bg"e\tobira-t.jpg",12
+^I head towards the now-calm bed.@
+^Fingers trembling, I reach for the door.@
+^————It is not locked.@
+^I grasp the handle and push it open hard.@
+br
+br
+br
+wave"m\tobira-2.wav"
+bg#000000,12
+^In the next moment, all that is before me is one color.\
+bg"e\noise.jpg",12
+h_usewindow "centerfs"
+textspeed 20
+h_centreline ^~c2~R    E    D~d~
+^~c2~R    E    D~d~\
+bg #000000,12
+h_usewindow "main6s"
+textspeed 30
+br
+bgm"m\ningyo.mp3"
+^It is a suffocating sea of blood.@
+br
+#8B0000
+^~c2~Scarlet~c1~.~d~@
+#ffffff
+br
+^The room has become uninhabitable, overpowered with stench.@
+br
+#8B0000
+^~c2~Crimson~c1~.~d~@
+br
+#ffffff
+^A thick, dark brown repaints the neutral color of the ground.@
+br
+#8B0000
+^~c2~Bloody~c1~.~d~@
+br
+#ffffff
+^Upon the bed is his corpse, a mass indistinguishable as a man.@
+br
+#8B0000
+^~c2~Red~c1~.~d~\
+bg"e\noise.jpg",12
+h_usewindow "centerfs"
+textspeed 20
+#ffffff
+h_centreline ^Like a crushed insect.
+^Like a crushed insect.\
+h_usewindow "main6s"
+textspeed 30
+bg #000000,12
+br
+^The man I hate so much—his corpse is right in front of me.@
+^Wings of butterflies glitter blue in the vicinity.@
+^Not black nor white, but a brilliant blue.@
+^Corpses of YaCho of a color foreign to this place.@
+^Understanding clicks within my confused mind. It seems that the dead man was a (ChouTsukai).@ Thinking about it, Yoru's explanation of him being with Chou seems natural.@
+^And now———Within a deep red-painted room.@
+^As if desiring dead flesh. As if drinking spilt blood.@
+^The mass of white butterflies.@
+br
+^"..."@
+br
+^I walk in, shoes making a wet noise as I proceed.@
+^————Then I notice.@
+^From the pools of blood are scattered red footprints. \
+#8B0000
+br
+^~c2~Blood~c1~.~d~@
+br
+^~c2~Blood~c1~.~d~@
+br
+^~c2~Blood~c1~.~d~@
+br
+^~c2~Blood~c1~.~d~@
+br
+^~c2~Blood~c1~.~d~@
+br
+br
+#ffffff
+^At the end of the trail of footprints, the door is slightly open.@
+^I pass by the man's corpse in silence.@
+wave"m\tobira-2.wav"
+^As if being guided, I somehow pull the door open.@
+^If Chou is beyond this door———I can't hesitate.\
+bgmfadeout 2500
+bgmstop
+
+erasetextwindow 1
+bg"e\tika.jpg",12
+h_usewindow "main6s"
+textspeed 30
+br
+^At the heart of the familiar room, Chou is lying on the bed.@
+bgm"m\mitibiki.mp3"
+^Sitting against the wall defensively, she hugs her small knees to her chest.@
+^The crimson color has stained everything————meat and blood, brain.@
+br2 10
+^~c6 -7~Is she this different of a creature?~d =0~@
+br
+^A momentary instinctive shudder passes through my whole body.@
+^This must be how small animals feel when confronted by a predator.@
+^Terror, disgust, awe—all tell me I should run.@
+^And yet, I can't tear my gaze away.@
+br2 10
+^~c6 -7~And yet, Chou is still beautiful~d =0~@
+br
+^A nameless emotion wells up in my throat, choking me.@
+^Silently, I embrace her small bloodstained shoulders.\
+br
+^She is so white, I don't think she will ever return to normal.@
+^When I touch her, she is limp, and her body temperature is so low that my chest constricts.@
+^————She's so spectacularly white that I feel dizzy.@
+^Chou seems surprised by my speechless embrace.@
+^The smell of iron is choking me. I bring my face closer to her red-stained shoulders.@
+^I realize this is a warped happiness.@
+^————In this black and ashen world, white like a phantom.@
+^Still in my arms.@
+^Still panting.@
+^Still not lost.\
+br
+^"————Let's go outside, Chou."@
+br
+^Once more, I repeat the same words.@
+^With a different meaning this time, I repeat.@
+^With a nod, Chou returns my embrace. That is her answer.\
+bg #000000,12
+h_locate 0,204
+^The contract... has been signed.@
+^Her kiss on my hand is my raison d'etre.@
+bgmfadeout 3000
+bgmstop
+h_usewindow "mainfs"
+textspeed 20
+bg"e\title.jpg",12
+!d2000
+
+bg"e\rasen.jpg",12
+h_usewindow "main6"
+textspeed 20
+#ffffff
+br
+bgm"m\entoro.mp3"
+^Like last night, I carry Chou on my back as I ascend the helix.@
+^I still love our overlapping body heat.@
+^I need a change of clothes—mine have been stained by the man's blood.@
+^The man's motorcycle is probably still parked outside.@
+^I plan to escape using that.@ I had acquired a driver's license just in case@————I'd just remembered.@
+^I check my watch; the hour hand points to five.@
+^Dawn is fast approaching. I must hurry.@
+^In the achromatic helix, heavy footsteps reverberate.@
+^Though I'm carrying Chou on my back, I don't relinquish my hold on the axe; it is an instinctual decision@————more than a premonition, a conviction.@
+wave"m\asioto2.wav"
+!w5000
+^I stop and look up.@
+^Beyond the pure white helix lingers a dark shadow.@
+^As if a drop of ink has accidentally been spilled.@
+^————Darker than dark, a deep jet-black silhouette.\
+bg#000000,12
+h_usewindow "center6"
+textspeed 20
+h_centreline ^"Good morning, Chou. And Sera-san."
+^"Good morning, Chou. And Sera-san."\
+h_usewindow "main6"
+textspeed 20
+bg"e\tatie0.jpg",12
+br
+^A nightmarish vision of a God of Death is standing before me.@
+^Behind him hover three black butterflies.@
+^A dark pair of emotionless eyes look down at me.@
+^The anger of the past leaves me. I just gaze back.@
+br
+^"Please go back now."@
+br
+^Silently, I gently lower Chou to the floor.@
+^The axe burns in my grip. I've made my decision.@
+^A swarm of white butterflies appears with a noise like a sudden shower.@
+^They've guessed what I intend. As if feeding off Chou's fear, a countless number of wings begin to gather overhead.@
+br
+^"————There are too many of them."@
+br
+^Without a change in expression, Yoru murmurs to himself. This is my chance.\
+wavestop
+bgmfadeout 1500
+bgmstop
+bg"e\rasen.jpg",12
+br
+^"—————I refuse."@
+br
+bgm"m\kyodaina.mp3"
+^I exhale quickly and break into a run.@
+^Yoru, facing me, pulls out a revolver from his chest holster.@
+^The next instant, our bodies entangle.@
+^And yet, at the same time.@
+^His black-clad back slips past me.@
+^—————He is behind me.@
+^Yoru's fist knocks the dazed Chou off her feet.@
+^Her small body slams into the wall and crumples to the ground.@
+br
+^"————Well then, there aren't many now."@
+br
+^The intent to kill fades from my thoughts.@
+wave"m\kaze.wav"
+^—————Flapping.@
+^My body moves even before I can think.\
+br
+^Before the black butterfly wings can graze my cheek, I roll to avoid them.@
+^A sharp pain, as though I've been sliced by fine cutlery.@
+^It feels more hot than painful.@
+br
+^"—————!"@
+br
+^I rush at him, howling.@
+^I swing the blade of the axe down with all my strength.@
+wave"m\ono.wav"
+^————The sound of a murderous wind.@
+^A few sliced-off black hairs flutter in the air.@
+^————A difference of a few centimeters.@
+^As if he had seen through me, he had taken a step back and parried the stroke.@
+^In no time at all, he returns the attack.@
+wave"m\ono.wav"
+^————A second blow.@
+wave"m\ono.wav"
+^————A third blow.@
+^For a moment, a shock runs through my left leg.\
+br
+^I don't have time to see if it was grazed.@
+^He grabs my collar and pulls me in.@
+br
+^————My field of vision is spinning.@
+br
+^My back smashes against the curve of the banister.@
+br
+^————Sudden impact.@
+^————Sharp pain.@
+br
+^In that shock of awareness, my spine makes a horrible creaking sound.@
+^It isn't broken, but it's severely injured.@
+^The axe falls from my hand and tumbles down the stairs, making a terrible racket.@
+^————I stretch out my hand, but can't quite reach it.@
+^Of course, my numb arm can't move.\
+br
+^Overhead, black and white butterflies begin to kill each other.@
+br
+^~c0~———————————————~c7~Shriiin~c0~————————————————~c7~Shriiin~c0~———————————————~d~@
+br
+^The mingling butterflies' wings chime out a high, clear sound, as if playing an instrument.@
+^It is a sound that is pleasantly intoxicating to the listener.@
+br
+^~c0~———————————————~c7~Shriiin~c0~————————————————~c7~Shriiin~c0~———————————————~d~@
+br
+^————It sounds just like they're singing.@
+^Like they're dancing.@
+^Like they're frolicking.@
+^Like they're playing.@
+br
+^————A swarm of YaCho, all commiting fratricide.\
+br
+^White has the numerical advantage and is winning.@
+^But they've lost their master, and they're confused and out of control.@
+^They have already begun to kill each other by mistake.@
+^Taking advantage of the chaos, the three remaining black consign the white to oblivion one by one.@
+^Wings shredded to pieces fall and pile up on the spiral stairs.@
+br
+^Almost like snow.@
+^Almost like petals.@
+br
+erasetextwindow 1
+^They continue to fall and pile up like snow, countless white corpses.@
+br
+br
+^"Quite pretty. Very ugly as well."\
+br
+bgmfadeout 2000
+bgmstop
+bg"e\tatie0.jpg",12
+erasetextwindow 0
+^Yoru remarks, as if speaking to himself.@
+bgm"m\seishun.mp3"
+^Our gazes meet, and he crouches down in front of me.@
+^His face is shadowy, backlit by the illumination overhead.@
+^Enduring the dull pain, I glare at him.@
+br
+^"Do you understand, Sera-san?@ By nature, the ChouTsuki have no male-female distinction.@ However, if a (contract) is formed, it is possible for them to obtain reproductive fuction.@ From asexual to bisexual.@ Like a perfect transformation, a dramatic metamorphosis.@ Whichever way you do it, it's extreme."@
+br
+^As he speaks, he unfastens his tie.@
+^Thin fingers begin to unbutton his shirt.@
+^With his shirtfront open, his white, elegant collarbone is exposed.@
+^————Like Chou and me, he has a birthmark.@
+^A butterfly, extending jet-black wings.\
+br
+^"Chou and I are twins, born from the womb of the same mother.@ Fraternal, as you can see.@ In the past, it was extremely rare to bear ChouTsuki as twins.@ That's why, as an experiment, the Mutsuki family decided to raise Chou as a woman and myself as a man.@ Because of that, I was absolved from taking any of the duties of a woman.@
+^Do you understand, Sera-san?@ It should come back to you soon.@ It's somewhat strange, but you are a (woman).@ Both biologically speaking and in the family register, you are unmistakably a woman.@
+^It's unfortunate, but even if she were able to have sex with you as a (man), her (soul) would be female.@ It's because you're a (woman) that you love Chou@
+^————ah, you've remembered.@ The reason you were chosen as a (sacrifice)————the reason you've been estranged from your former reality, is because you are a woman even though you are a man.@
+^That's why you, who had lost (all) your memories, as a (man) chose the (maiden) Chou, to complete yourself.\
+br
+^She was a weak and fragile (maiden), which is why you could transform Chou into something holy.@ You took something that was even weaker than yourself, and past being awed by her nobleness, you enshrined her, believed in her, as your (girlfriend)."@
+br
+^The quiet voice indifferently addresses me.@
+^Gradually, the inside of my head begins to fade to white.@
+^I don't want to listen. He's annoying. I want him to be quiet.@
+^Sensation is slowly returning, and I raise my right hand.@
+^I reach up and wrap trembling fingers around Yoru's throat, which fills my gaze.@
+^I press with two fingers on his respiratory tract. My fingernails dig into his throat.@
+^And yet, Yoru's facial expression does not change.@
+br
+^"————One."\
+br
+bg"e\noise.jpg",12
+^He calls out the black butterfly's name in a voiceless murmur.@
+bgmfadeout 1000
+bgmstop
+erasetextwindow 0
+br
+^————There is a thick, dull sound.@
+br
+^The first moment, my brain can't even remember to scream.@
+^An electric current runs through all the nerves in my entire body, and the strength in my fingers drains all at once.@
+^The instant my pulse resumes———blood spouts from my left shoulder.@
+^The blood gushes in time with the convulsions in my lungs.@
+bg"e\rasen.jpg",12
+bgm"m\mitibiki.mp3"
+br
+^"Hey, Sera-san. What you've mistaken for love is simple imprinting.@ The you that lost your memory unconsciously searched for your meaning of life.@
+
+*name_note_loop
+lsp 40,":s#FFFFFF?",610,15
+repaint
+^The (Chou) that you love doesn't exist beyond a dream."@ 
+getmousepos %50, %51
+notif %50>=600 goto *name_note_end
+notif %51<=40 goto *name_note_end
+isskip %50
+if %50!=0 goto *name_note_end
+csp 40
+repaint
+
+btndef ""
+textoff
+bg"e\name_note.jpg",12
+print %109:
+btnwait %1
+csp 0
+print %109
+bg"e\rasen.jpg",12
+texton
+
+*name_note_end
+csp 40
+repaint
+
+br
+^I lift my gaze to look at Yoru.@
+^The moment I open my mouth, the heavy pain stills my tongue.\
+br
+^"...In the end... what are you... trying to say?"@
+^"Well then, let's explain."@
+br
+^As I speak, I grip the railing behind me.@
+^Yoru's face is before me.@
+^I can't tear my gaze away and I don't know why.@
+^Black, silent, shining eyes.@
+^————Gaze.@
+^————Fingertips.@
+^One hand drawn to my head.@
+^Sighs.@
+br
+^————His lips... press against mine.@
+br
+^Lips touching and pulling away, hot.\
+br
+^Yoru's fingers glide over my cheekbones, as if to cover them.@
+^He spins words for me, from so close I can feel his breath.@
+br
+^"Chou may want no one but you, but apparently even I'll do for you."@
+br
+^The sensation of warm, slender fingers.@
+^A pair of cold, deep black eyes.@
+br
+^"————It's too bad."@
+br
+^It doesn't sound damning, or regretful.@
+^All I hear is an indifferent voice.@
+^His fingers lift from my face.@
+^As if nothing has happened, his words continue.\
+br
+^"You may have already started to suspect it, but that birthmark is proof of the contract.@ It's a shame, but bearing a child with a contract has become a taboo in the Mutsuki family.@ Even now, there are too many deformities among the Mutsuki offspring.@ For example, two heads, or multiple limbs.@ There's no need to become further genetically separated from humans, is there?@ If, by any chance, a contract bearer were to be born not of the Mutsuki, we would be ordered to immediately destroy them.@ Still, in this insect cage, if you are determined to be kept as a mate for Chou, the Mutsuki family welcomes you.@ What will you do? Sera-sa!s10———————————————————————————————————————"@
+h_usewindow "main6s"
+textspeed 30
+br
+!s35
+bg#8B0000,1
+bgmfadeout 1000
+bgmstop
+bg"e\rasen.jpg",12
+^That moment, I hear the sound of meat being sliced off.@
+^For the first time, Yoru's facial expression distorts.@
+^A blade has swung down from behind and bitten into Yoru's shoulder.@
+^Fresh blood overflows vigorously from the cut like boiling hot water.@
+br
+!w1000
+bgm"m\sunano.mp3"
+erasetextwindow 0
+^"————Chou."@
+br
+^Looking over his shoulder, Yoru murmurs expressionlessly.@
+^Letting go of the shaft of the axe, Chou draws back, as if frightened.@
+^Right in front of my eyes, Yoru's body crumples.@
+^Before I know it, the butterflies' fluttering has ceased.@
+^————Not a single one moves now.@
+^My mind is still paralyzed, but I suddenly know that the time to run is now.@
+^Trampling on the white corpses, I brace my shaking knees and stand up.@
+^I'm glad neither of my legs were broken.\
+br
+^Chou is staring at Yoru in a daze. I take her hand.@
+^I begin to ascend the stairs as if pulled.@
+wave"m\asioto2.wav"
+!w5000
+^No voice rises from behind to stop me.@
+^I follow the helix partway with an uncertain gait.@
+^————A faint shadow flutters overhead.@
+^As I raise my head, a pair of black wings float above.@
+^————A black butterfly.@
+^It flaps slowly in place, as if still trying to determine its target.@
+br
+^"————Wait. Don't kill them, One."@
+
+br
+^A hoarse, controlled voice comes from behind.@
+^I look over my shoulder and see Yoru rising as he shields the wound on his shoulder.@
+^Gripping the handle of the axe springing from his shoulder, he grimaces a little as he pulls it out.\
+br
+^————It seems the wound was superficial.@
+br
+^"By all means, please go."@
+br
+^I hear his unexpected words.@
+^I look at him dubiously, and he lowers his eyes as if nodding his assent.@
+^His hoarse voice... contines to speak.@
+br
+^"It's all right. From here on after, I won't lift a finger to stop you."@
+^"————Why?"@
+^"I realized that as an (older brother), I should support my (little sister's) love."@
+br
+^He speaks softly and smiles. It looks like his usual unnatural smile.@
+br
+^"Goodbye, Sera-san. We won't meet again."@
+br
+^And to Chou, who is nestled close to me, he says, "Go on."\
+br
+^"...Let's go."@
+br
+^As usual, his manner is incomprehensible.@
+^Calling to Chou, who is petrified with fear, I turn.@
+^Once more, I take her hand, and we begin to climb the rest of the stairs.@
+^The black child receding into the distance says nothing more.@
+^Our uncertain footsteps overlap, blend, and die out.@
+^I keep wondering why he smiled like that at the end.@
+^————But I can't afford to question it.@
+^My fingers are frozen from all that bleeding.@
+^I can't even tell if the wound is hot or cold.@
+^We arrive at the end of the helix, and I tug open the door.@
+erasetextwindow 0
+wave"m\tobira-2.wav"
+bg #000000,12
+br
+^At the last moment, I look over my shoulder in hesitation———and stop.\
+h_usewindow "center6"
+textspeed 20
+h_centreline ^I don't know if I can forgive him.
+^I don't know if I can forgive him.\
+h_centreline ^But, in the end, I can't hate (him).
+^But, in the end, I can't hate (him).\
+bgmfadeout 3500
+bgmstop
+
+bg #000000,12
+bg"e\tobira-t.jpg",12
+h_usewindow "centerf2s"
+textspeed 20
+h_centreline ^Wasn't Chou lonely?
+^Wasn't Chou lonely?@
+erasetextwindow 0
+bg"e\genkan.jpg",12
+h_centreline ^Wasn't Yoru bored?
+^Wasn't Yoru bored?\
+bg #000000,12
+h_usewindow "centerfs"
+textspeed 20
+h_centreline ^All by themselves
+^All by themselves\
+erasetextwindow 1
+bg"e\class1.jpg",11
+h_usewindow "main6s"
+textspeed 30
+bgm"m\mitibiki.mp3"
+#ffffff
+br
+^Sera Kaoru. That is my name.@
+^There was no other identity in my restored memory.@
+^Sera Kaoru. A senior in high school. Eighteen years old.@
+^My parents died in a car accident.@
+^In middle school and high school, I didn't try to get close to anyone in class.@
+^Classmates, teachers, I felt like they surrounded me from a distance.@
+^Only my grades were good; I had no friends I could talk to.@
+^————It was just like Yoru said.@
+^I had never known if I was a boy or if I was a girl.@
+
+*boku_note_loop
+lsp 40,":s#FFFFFF?",610,15
+repaint
+^For as long as I could remember, I referred to myself as "boku," not "watashi."@
+getmousepos %50, %51
+notif %50>=600 goto *boku_note_end
+notif %51<=40 goto *boku_note_end
+isskip %50
+if %50!=0 goto *boku_note_end
+csp 40
+repaint
+
+btndef ""
+textoff
+bg"e\boku_note.jpg",12
+print %109:
+btnwait %1
+csp 0
+print %109
+bg"e\class1.jpg",12
+texton
+
+*boku_note_end
+csp 40
+repaint
+
+br
+^————And I was alone.\
+br
+erasetextwindow 0
+bg"e\class3.jpg",12
+^I always read at my desk between classes.@
+^The book I kept in my desk was "Picturebook Without Pictures." My favorite book.@
+^I thought it was a meaningful life as it was.\
+br
+^It wasn't strict.@
+^I didn't hate it.@
+^But... I was alone.@
+br
+^————Perhaps I was lonely.@
+^————Perhaps I was bored.@
+br
+^Perhaps in my mind I had lumped (them) together with me.@
+^"Is there a human alive who is satisfied with solitude?"@
+^————When all was said and done, I wasn't satisfied with it.@
+br
+^But I didn't think the time I spent was useless.@
+^As I stopped in confusion, retraced my steps... I started living.@
+^I'd only just decided what college I was going to, only just gotten my motorcycle license.@
+^Ordinary, bored, unhappy.\
+h_locate 0,234
+^————However, this is my locus.\
+erasetextwindow 1
+bg"e\cg1.jpg",11
+bg"e\cg2.jpg",11
+bg"e\cg4.jpg",11
+bg"e\cg5.jpg",11
+br
+^Right now, I've decided to love Chou.@
+^I don't know what I can do.@
+#cccccc
+^Maybe I can't do anything.@
+#ffffff
+^I don't know where I can go.@??
+#cccccc
+^Maybe I can't go anywhere.@
+#ffffff
+br
+^And yet, for the first time in my life, I don't think I can lose.@
+^Because for the first time, I'm in love.@
+^Because for the first time, I feel important.@
+^Just holding her close, I want her to always be near.@
+^Even if, as Yoru had said, it's just a twisted hallucination.@
+br
+^I'm strangely, ridiculously————deeply in love.@
+br
+^It may well be as he says.@
+^For me, she is like a beautiful dream that no one else has ever had.\
+bg #000000,12
+h_usewindow "center6"
+textspeed 20
+h_centreline ^Undoubtedly, I can never return once I wake.
+^Undoubtedly, I can never return once I wake.\
+bgmfadeout 3000
+bgmstop
+
+bgm"m\hitotuno.mp3"
+h_usewindow "main6s"
+textspeed 30
+bg"e\kumo.jpg",12
+#ffffff
+br
+^The sun is rising in the eastern sky.@
+^The shape of the clouds.@
+^The scent on the wind.@
+^The entire world is oddly peaceful. @
+^Warding everything off, the silence almost seems to coil about me.@
+^My eyes, having been used to the gloom, are dazzled by the tiny bit of light.@
+^The gentle breeze brushes my cheeks gently, and is soon gone.@
+erasetextwindow 0
+bg"e\mori.jpg",12
+^I turn my face into the wind; the scenery trickles in green.@
+^The thick, luxurious forest in front of me.@
+^The path vanishing into the trees.@
+^Before me sits a motorcycle.@
+^Walking uncertainly, I grip Chou's hand... and run.@
+^If we don't hurry up and struggle forward———we won't make it.@
+^I feel a harsh, horrible premonition.@
+^Like I've made an irreparable mistake, and haven't realized it yet.\
+erasetextwindow 1
+bg #000000,12
+#ffffff
+h_usewindow "center6"
+textspeed 30
+h_centreline ^"But you don't even know Chou's name, do you?"
+^"But you don't even know Chou's name, do you?"\
+h_usewindow "main6s"
+textspeed 30
+bg"e\mori.jpg",12
+#ffffff
+br
+^"..."@
+br
+^The instant I remember, I stop walking.@
+^I'd certainly heard the name "Chou" from Yoru.@
+
+*kanji_note_loop
+lsp 40,":s#ff0000?",610,15
+repaint
+^But I'd never known the kanji for "Chou." ~c4~?~c0~. ~c4~?~c0~. ~c4~?~c0~. All of them are "Chou."@
+getmousepos %50, %51
+notif %50>=600 goto *kanji_note_end
+notif %51<=40 goto *kanji_note_end
+isskip %50
+if %50!=0 goto *kanji_note_end
+csp 40
+repaint
+
+btndef ""
+textoff
+bg"e\kanji_note.jpg",12
+print %109:
+btnwait %1
+csp 0
+print %109
+bg"e\mori.jpg",12
+texton
+
+*kanji_note_end
+csp 40
+repaint
+
+^Certainly, as Yoru had said, I... don't even know her name.@
+^...And... not just her name.@
+^In addition, nothing, I————don't know anything.@
+br
+^"..."@
+br
+^The emotions in my frozen heart... are trying to say something.@
+^Perhaps unconsciously it is trying to follow the memories I have of Chou and me.@ When I turn to look at the building standing behind me—\
+br
+erasetextwindow 0
+bg"e\yakata-a.jpg",12
+h_usewindow "center6"
+textspeed 30
+h_centreline ^It is at that moment.
+^It is at that moment.\
+h_usewindow "main6s"
+textspeed 30
+br
+wave"m\kaze.wav"
+^A sound that cuts the wind.@
+^I reflexively thrust Chou away from me.@
+^————A dull sound.@
+^Simultaneously, my body crumples to the ground.@
+erasetextwindow 0
+bg"e\kumo.jpg",12
+^The world is spinning.@ 
+^It almost looks like the ground has disappeared.@ 
+^I see the sky.@
+^I just turn my face to look up at Chou.@
+^Behind her flutters a single butterfly.@
+^————Blue.@
+^It isn't black or white.@
+^————I remember.@
+^The butterfly of the man I had intended to kill.@
+^Of the ChouTsukai... who had died in the basement.@
+^A lone survivor, the last blue butterfly.\
+br
+^A white butterfly immediately rends it to pieces, and it falls to the ground.@
+bg"e\konoha.jpg",12
+^I can't move my hands and feet anymore.@
+^At first I feel hot, but immediately I feel freezing.@
+^My senses fade one by one.@
+^The heat of my blood, the pain from my wound.@
+^————I can't feel anything.@
+br
+^"————Chou."@
+br
+^I call her name, but there is no sound.@
+^I only hear the sound of bubbling blood.@
+^Probably... mine.@
+^Anything and everything is a mistake; I don't know anything.@
+^But... in the end.@
+^If I can see Chou.@
+^This won't be such a bad death after all.\
+br
+^Surely, that has to be the case.@
+^That is the only thing... that is not a mistake.@
+br
+br
+^Green.@
+br
+^Clouds.@
+br
+^Light.@
+br
+br
+Anything and everything... is beautiful.@
+#444444
+^I... haven't lost anything.@
+#ffffff
+^More than anything———Chou———is beautiful.@
+#444444
+^I haven't lost her, not even at the end.@
+#ffffff
+^She's just————so beautiful.\
+!w3000
+h_locate 0,210
+^...\
+h_locate 0,210
+^...\
+h_locate 0,210
+^...Heat.\
+h_locate 0,210
+^From arms holding me close.\
+h_locate 0,210
+^Temperature.\
+h_locate 0,210
+^Pulse.\
+h_locate 0,210
+^————Crying.\
+h_locate 0,210
+^And a voice.\
+h_locate 0,210
+^I'm not crying.\
+h_locate 0,210
+^However.\
+h_locate 0,210
+^The person crying is.\
+h_locate 0,210
+^I can hear it... in my heart.\
+h_locate 0,210
+^Someone is.\
+h_locate 0,210
+^Crying.\
+h_locate 0,210
+^————Who is.\
+h_locate 0,210
+^————Chou is.\
+h_locate 0,210
+^What should I do.\
+h_locate 0,210
+^I don't want her to cry.\
+h_locate 0,210
+^————Chou.\
+h_locate 0,210
+^You...\
+h_locate 0,210
+^Don't have to cry...\
+h_locate 0,210
+^For my sake.\
+h_locate 0,210
+^You really————shouldn't.\
+erasetextwindow 1
+h_usewindow "mainfs"
+textspeed 20
+bg #ffffff,13
+bgmfadeout 5000
+bgmstop
+!w3000
+
+bg"e\konoha.jpg",12
+h_usewindow "main6s"
+textspeed 30
+#ffffff
+bgm"m\sunano.mp3"
+br
+^Oooooooooooooooooooooooooh                    Oooooooooooooooooooooooooh@
+br
+^————A voice like an animal's cry can be heard.@
+^Embracing the bloodstained corpse, the pure white child is howling.@
+^It's too late; blood is flowing sluggishly from the body whose heart no longer beats.@
+^A tearless, voiceless wail continues to roar into the distant sky.@
+br
+^Oooooooooooooooooooooooooh                    Oooooooooooooooooooooooooh@
+br
+^————The white child doesn't even know how to cry.@
+^Quiet footsteps approach and stop at length.@
+^The black child appears behind her.@
+br
+^Oooooooooooooooooooooooooh                    Oooooooooooooooooooooooooh@
+br
+^And dawn arrives in brilliantly colored splendor.\
+br
+h_usewindow "mainfs"
+textspeed 20
+bg"e\kumo.jpg",11
+bg"e\yoake1.jpg",11
+bg"e\yoake2.jpg",11
+bg"e\yoake3.jpg",11
+bg"e\yoake4.jpg",13
+!w4000
+bg"e\konoha2.jpg",13
+h_usewindow "main6s"
+textspeed 30
+#ffffff
+br
+^It is a splendid daybreak.@
+^The leaden clouds break up; the sun shines through, creating a pillar of soft light.@
+^Mist pours from the forest, is swallowed by the light, and vanishes.@
+^Birds begin to sing, as if they've been set free.@
+^Light and color return to the achromatic world.@
+br
+^Oooooooooooooooooooooooooh                    Oooooooooooooooooooooooooh@
+br
+^And a change comes over the white child.@
+^Fingertips burn, an omen.@
+^Bubbles begin to rise on crimson-congested skin.@
+^The white, white skin changes to a blackish brown, charring from the fingers.@
+^Dark scar tissue rapidly spreads.@
+^The skin begins to crumble into necrosis from the fingers.\
+br
+^Oooooooooooooooooooooooooh                    Oooooooooooooooooooooooooh@
+br
+^The white child... isn't aware of the pain spreading through her whole body.@
+^She makes no attempt to find a shadow to hide in—she continues to hold the body in her arms.@
+br
+^Oooooooooooooooooooooooooh                    Oooooooooooooooooooooooooh@
+erasetextwindow 0
+bg"e\jyu.jpg",12
+br
+^At length, the black child takes out a revolver.@
+^————And cocks it.@
+^Without hesitation, he pulls the trigger.@
+br
+wave"m\jyusei.wav"
+^The dull sound of an explosion.@
+br
+^The fired bullet slams into her head.@
+^Blood flies from her skull and splatters on the ground.\
+br
+^Her small body collapses like a string has snapped in her spine.@
+^The color of abundant blood spreads like crimson petals.@
+^At length, the two pools of blood blend and fuse.@
+br
+bg"e\konoha2.jpg",12
+^And nothing else is heard.@
+br
+^The soft breeze strokes his cheek and soon stops.@
+^Turning towards the direction the wind is blowing from, he gazes at the dripping green scenery.@
+^The sound of the piercing green leaves piles up; the forest is uninhabited.@
+^When the wind whirls high in the sky, one can hear the sound of sap dripping on the foliage.@
+^Cries of small birds can be heard in the distance, and light leaf-green sunbeams stretch out.@
+^A little breeze blows by.@
+^But the sound is unheard.\
+br
+^In a world bursting with color, the black child stands out.@
+^Blue-tinged black hair.@
+^Eyes deeper than shadows.@
+^At a scene that would drive an ordinary person to madness, he stands, showing no feeling at all.@
+br
+^"I'm sorry. I lied."@
+br
+bg"e\yoake4.jpg",12
+^It is an emotionless voice.@
+^He leaves no more than these words as he turns.@
+^He has discharged his duty. The smell of blood and gunpowder rises from his body.@
+^He slowly advances towards the mansion towering before his eyes.@?
+br
+^————He looks over his shoulder.\
+h_usewindow "mainfs"
+textspeed 20
+bg #ffffff,11
+bgmfadeout 5000
+bgmstop
+!w3000
+
+erasetextwindow 1
+bg"e\genkan.jpg",11
+bgm"m\kodoku.mp3"
+h_usewindow "main6s"
+textspeed 30
+#ffffff
+br
+^The mansion, isolated from the physical world, already shows no sign of life.@
+^There are only the dark-winged black butterflies, fluttering like shadows.@
+^They flap behind their master as if nestling close to him.@
+br
+^"Hmm? Ahh, the ChouTsuki is weak to the light.@ It would have only taken her five minutes to burn up and die. Same as you.@————I am all right. I'm weak to light, but it will not kill me."@
+br
+Words spill from his mouth as he speaks to himself.@
+^His eyes, accustomed to achromatic colors, feel dazzled by the small amount of light.@
+^As he shields the wound on his shoulder, he slowly begins to ascend the stairs.@
+br
+^"Ahh, yes. Since I no longer have a (little sister), I think I'll prepare for a journey. I'll leave when the sun goes down.@ I'll probably travel so long I'll get sick of it."\
+br
+^As he speaks, he takes out a black box.@
+^In the gradually brightening darkness, the black butterflies fluttering overhead are shut into the box, one by one.@
+br
+br
+^"Still, I probably won't get bored."@
+br
+br
+^The black child shuts the lid with a snap and keeps walking.@
+^With no one else there in the dim light, the monologue is all that remains.@
+^Silence returns to the achromatic world.@
+^It is deathly quiet again.\
+bg #000000,13
+h_locate 0,180
+^Once upon a time, in this insect cage, two butterflies had been raised.@
+^After our story ended, the black butterfly more or less disappeared.@
+
+*asa_note_loop
+lsp 40,":s#FFFFFF?",610,15
+repaint
+^The girl, Chou, who had just lost her life————her real name was "Asa."\
+getmousepos %50, %51
+notif %50>=600 goto *asa_note_end
+notif %51<=40 goto *asa_note_end
+isskip %50
+if %50!=0 goto *asa_note_end
+csp 40
+repaint
+
+btndef ""
+textoff
+bg"e\asa_note.jpg",12
+print %109:
+btnwait %1
+csp 0
+print %109
+bg #000000,12
+texton
+
+*asa_note_end
+csp 40
+repaint
+
+h_usewindow "mainfs"
+textspeed 20
+bgmfadeout 6500
+bgmstop
+bgm"m\maitiru.mp3"
+bg"e\end1.jpg",12
+!w5000
+bg"e\end2.jpg",12
+!w5000
+bg"e\end3.jpg",12
+!w5000
+bg"e\end4.jpg",12
+!w5000
+bg"e\end5.jpg",12
+!w5000
+bg"e\end6.jpg",12
+!w5000
+bg"e\cg2.jpg",12
+!w7000
+bgmstop
+bg"e\end.jpg",11
+!w7000
+goto *menu
+reset
+
+</poem>
